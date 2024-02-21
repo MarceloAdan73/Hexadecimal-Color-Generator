@@ -1,5 +1,7 @@
 This code is a small application that generates a color palette in hexadecimal format.
 
+<img src="./imgApp.png" alt="imagen del proyecto">
+
 -First define a container in the HTML with the id `palleteContainer` where the colors will be displayed.
 -Then also uses an input of type `range` with id `colorRange` to adjust the number of dynamically generated colors.
 -With an array called `colorValues` that contains the necessary digits and letters, generates colors in hexadecimal format.

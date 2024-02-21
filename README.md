@@ -8,3 +8,5 @@ This code is a small application that generates a color palette in hexadecimal f
 -The `colorize(element)` function is responsible for assigning a random color to each element in the palette. Generates a random color in hexadecimal format and applies it as the background of the element, and also displays the hexadecimal code inside the element.
 -The `updatePallete()` function updates all colors in the palette by calling `colorize()` for each element in the container.
 -Finally, `createPallete()` is called to generate the palette when the page loads.
+
+🔗 <a href="https://marceloadan73.github.io/Hexadecimal-Color-Generator/">See in operation</a>
